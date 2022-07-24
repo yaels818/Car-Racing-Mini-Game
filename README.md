@@ -20,6 +20,9 @@ Happy gaming! :)
 * Download the code to your computer, extract, then open and run from **main.py**
 * Keyboard controls: Use *W* to accelerate, *A* for left turn, *D* for right turn, *S* for reverse
 
+* 🚩: Your goal is to get the red car to cross the finish line before the green car!
+* 💡: If you hit an invisible wall, try either turning a bit or turning and reversing before going forward again.
+
 ---
 
 <br>
