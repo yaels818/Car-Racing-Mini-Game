@@ -17,8 +17,10 @@ Happy gaming! :)
 
 ## How to play:
 
-* Download the code to your computer, extract, then open and run from **main.py**
-* Keyboard controls: Use *W* to accelerate, *A* for left turn, *D* for right turn, *S* for reverse
+1) If you do not already have **Python** on your machine - download it from https://www.python.org/downloads/
+2) If you do not already have **Pygame** on your machine - open a terminal and type: ``` pip install pygame ```
+3) Download the code to your computer, extract, then open and run from ``` main.py ```
+4) Keyboard controls: Use *W* to accelerate, *A* for left turn, *D* for right turn, *S* for reverse
 
 * 🚩: Your goal is to get the red car to cross the finish line before the green car!
 * 💡: If you hit an invisible wall, try either turning a bit or turning and reversing before going forward again.
